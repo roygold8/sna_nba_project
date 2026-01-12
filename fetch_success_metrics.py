@@ -8,7 +8,7 @@ import time
 import pandas as pd
 from nba_api.stats.endpoints import (
     LeagueStandings,
-    LeagueLeaders,
+    LeagueDashPlayerStats,
     TeamYearByYearStats,
 )
 from nba_api.stats.static import teams
@@ -62,18 +62,18 @@ def fetch_scoring_leaders(season):
     """
     print(f"  Fetching scoring leaders for {season}...")
     try:
-        leaders = LeagueLeaders(
-            league_id='00',
-            per_mode48='PerGame',
-            scope='S',
+        # Use LeagueDashPlayerStats instead of LeagueLeaders (which fails for older seasons)
+        stats = LeagueDashPlayerStats(
+            league_id_nullable='00',
+            per_mode_detailed='PerGame',
             season=season,
             season_type_all_star='Regular Season',
-            stat_category_abbreviation='PTS'
+            measure_type_detailed_defense='Base'
         )
-        df = leaders.get_data_frames()[0]
+        df = stats.get_data_frames()[0]
         
-        # Take top 100
-        result = df.head(100).copy()
+        # Sort by PTS descending and take top 100
+        result = df.sort_values(by='PTS', ascending=False).head(100).copy()
         
         output_path = os.path.join(DATA_DIR, season, 'scoring_leaders.csv')
         result.to_csv(output_path, index=False)
