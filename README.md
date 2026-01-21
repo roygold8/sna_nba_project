@@ -39,22 +39,27 @@ This creates a **directed edge** from LeBron to Anthony Davis with **weight = 50
 ## 📁 Project Structure
 
 ```
-sna_nba_project/
-├── data/
-│   └── 2023-24/
-│       ├── passing_*.json      # Raw NBA passing data
-│       ├── playoff_scores.csv  # Team playoff performance
-│       ├── scoring_leaders.csv # Top 100 scorers stats
-│       └── team_standings.csv  # Team win percentages
-├── output/
-│   ├── nba_assist_network.gexf # Assist network graph
-│   └── nba_pass_network.gexf   # Pass network graph
-├── build_network.py            # Build network from raw data
-├── build_player_metrics_df.py  # Create player metrics DataFrame
-├── fetch_nba_data.py           # Fetch data from NBA API
-├── fetch_success_metrics.py    # Fetch team success metrics
-├── generate_improved_viz.py    # Generate HTML visualization
-└── nba_network_analysis.ipynb  # Main analysis notebook
+nba_project/
+├── data/                       # Raw NBA data & success metrics
+├── output/                     # Generated networks & visualizations
+├── data_collection/            # Scripts for fetching/loading data
+│   ├── fetch_nba_data.py
+│   ├── fetch_success_metrics.py
+│   └── success_data_loader.py
+├── network_construction/       # Scripts for building networks
+│   └── build_network.py
+├── analysis/                   # Analysis scripts
+│   ├── analyze_networks_comprehensive.py
+│   ├── analyze_team_success.py
+│   ├── build_player_metrics_df.py
+│   └── compare_top123.py
+├── visualization/              # Visualization scripts
+│   ├── visualize_network.py
+│   ├── generate_improved_viz.py
+│   └── generate_slide_visuals.py
+├── notebooks/                  # Interactive analysis
+│   └── nba_network_analysis.ipynb
+└── requirements.txt            # Project dependencies
 ```
 
 ---
@@ -63,7 +68,8 @@ sna_nba_project/
 
 ### 1. Generate Player Metrics DataFrame
 ```bash
-python build_player_metrics_df.py
+```bash
+python analysis/build_player_metrics_df.py
 ```
 Creates `player_network_metrics_2023-24.csv` with:
 - Network metrics (Degree, Betweenness, Clustering)
@@ -72,7 +78,8 @@ Creates `player_network_metrics_2023-24.csv` with:
 
 ### 2. Generate Interactive Visualization
 ```bash
-python generate_improved_viz.py
+```bash
+python visualization/generate_improved_viz.py
 ```
 Creates `assist_network_2023-24_improved.html` - open in browser to explore.
 

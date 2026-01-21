@@ -1,0 +1,8 @@
+nba_api
+networkx
+pandas
+numpy
+matplotlib
+scipy
+pyvis
+requests
