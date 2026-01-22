@@ -1,0 +1,39 @@
+Metric,Correlation_r,P_Value,Significant,N,Interpretation
+Std_Weighted_Degree,0.4684950447028278,3.891454655890868e-16,True,270,Strong positive - Hierarchy leads to more wins
+Mean_Weighted_Degree,0.42330643214845737,3.650590262209479e-13,True,270,Strong positive correlation
+Star_Player_Degree,0.41876745256154935,6.874256542176087e-13,True,270,Strong positive correlation
+Max_Weighted_Degree,0.41876745256154935,6.874256542176087e-13,True,270,Strong positive - Star system leads to more wins
+Total_Passes,0.3519172148444755,2.7296360338618883e-09,True,270,Moderate positive correlation
+Top3_Concentration,0.32072385288293903,7.100833173362527e-08,True,270,Moderate positive correlation
+Top2_Concentration,0.2966692363125526,6.892539307648534e-07,True,270,Moderate positive correlation
+Top1_Concentration,0.23747713224519193,8.129134685500115e-05,True,270,Moderate positive correlation
+Star_Degree_Share,0.23747713224519193,8.129134685500115e-05,True,270,Moderate positive correlation
+Avg_Clustering,0.2130153212920141,0.00042428907517865443,True,270,Moderate positive correlation
+Std_Eigenvector,0.21038194612355934,0.0005015696300094035,True,270,Moderate positive correlation
+Transitivity,0.2092111631333733,0.0005399556957626074,True,270,Moderate positive correlation
+Std_Betweenness,0.19273937610756842,0.001461470462362381,True,270,Weak positive correlation
+Mean_Closeness,0.19021752141861403,0.0016905868524265868,True,270,Weak positive correlation
+Graph_Density,0.18469416697167973,0.0023112922286330486,True,270,Weak positive - Connectivity has positive effect
+Max_Betweenness,0.16737940219740524,0.005832712628473025,True,270,Weak positive correlation
+Max_Closeness,0.12874016659821247,0.03448036604743944,True,270,Weak positive correlation
+Gini_Coefficient,0.12868418590122876,0.03455956262140237,True,270,Weak positive - Inequality leads to more wins
+Max_Eigenvector,0.1280351288604101,0.0354891289146636,True,270,Weak positive correlation
+Largest_Component_Pct,0.1138452501547945,0.061752711985726724,False,270,No significant relationship positive correlation
+Mean_Eigenvector,0.099403165973625,0.10313919612277123,False,270,No significant relationship positive correlation
+Degree_Centralization,0.07984905964467354,0.19085425946551995,False,270,No significant relationship positive correlation
+Min_Weighted_Degree,0.07960870945557796,0.1921973488421024,False,270,No significant relationship positive correlation
+Mean_Betweenness,0.0423737081161849,0.4880885524088174,False,270,No significant relationship positive correlation
+Avg_Clustering_Weighted,-0.005354780488595655,0.9302101592690736,False,270,No significant relationship negative correlation
+Diameter,-0.10149059792214962,0.09606780525220251,False,270,No significant relationship negative correlation
+Num_Strong_Components,-0.12580811816701382,0.03884147504770031,True,270,Weak negative correlation
+Num_Weak_Components,-0.13599052995494623,0.025445203304942467,True,270,Weak negative correlation
+Num_Components,-0.13599052995494623,0.025445203304942467,True,270,Weak negative correlation
+Degree_Equality,-0.13621942053627256,0.025196777858281977,True,270,Weak negative correlation
+APL,-0.15027184834472343,0.013442935032182649,True,270,Weak negative correlation
+Std_Closeness,-0.17519606200876067,0.003879751744852934,True,270,Weak negative correlation
+Pass_Entropy,-0.1782500987724203,0.0032934613666419222,True,270,Weak negative - Randomness leads to fewer wins
+Edge_Weight_Entropy,-0.1828002603126543,0.0025678781621123227,True,270,Weak negative correlation
+Num_Triangles,-0.2450399149530724,4.7022060699191406e-05,True,270,Moderate negative correlation
+Num_Edges,-0.2634171989736215,1.1544701725423352e-05,True,270,Moderate negative correlation
+Largest_Component_Size,-0.26789120877490424,8.069688158895978e-06,True,270,Moderate negative correlation
+Num_Nodes,-0.28731070197488384,1.5811753069204584e-06,True,270,Moderate negative correlation

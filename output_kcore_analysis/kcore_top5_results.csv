@@ -1,0 +1,31 @@
+Team,Top5_Min_KCore,Top5_Max_KCore,Top5_Avg_KCore,Team_Max_KCore,Top5_Names,Top5_KCores,Player1,Player1_KCore,Player2,Player2_KCore,Player3,Player3_KCore,Player4,Player4_KCore,Player5,Player5_KCore,Win_Pct
+ATL,10,10,10.0,10,"Johnson, Daniels, Alexander-Walker, Okongwu, Krejci","[10, 10, 10, 10, 10]",Jalen Johnson,10,Dyson Daniels,10,Nickeil Alexander-Walker,10,Onyeka Okongwu,10,Vít Krejčí,10,0.457
+BKN,12,12,12.0,12,"Demin, Claxton, Mann, Jr., Clowney","[12, 12, 12, 12, 12]",Egor Dëmin,12,Nic Claxton,12,Terance Mann,12,Michael Porter Jr.,12,Noah Clowney,12,0.286
+BOS,10,10,10.0,10,"White, Pritchard, Brown, Simons, Hauser","[10, 10, 10, 10, 10]",Derrick White,10,Payton Pritchard,10,Jaylen Brown,10,Anfernee Simons,10,Sam Hauser,10,0.628
+CHA,11,11,11.0,11,"Ball, Bridges, Knueppel, James, Sexton","[11, 11, 11, 11, 11]",LaMelo Ball,11,Miles Bridges,11,Kon Knueppel,11,Sion James,11,Collin Sexton,11,0.364
+CHI,12,12,12.0,12,"Giddey, Vucevic, Jones, Buzelis, Dosunmu","[12, 12, 12, 12, 12]",Josh Giddey,12,Nikola Vučević,12,Tre Jones,12,Matas Buzelis,12,Ayo Dosunmu,12,0.488
+CLE,12,12,12.0,12,"Mobley, Mitchell, Ball, Garland, Jr.","[12, 12, 12, 12, 12]",Evan Mobley,12,Donovan Mitchell,12,Lonzo Ball,12,Darius Garland,12,Craig Porter Jr.,12,0.556
+DAL,11,11,11.0,11,"Flagg, Williams, Marshall, Washington, Nembhard","[11, 11, 11, 11, 11]",Cooper Flagg,11,Brandon Williams,11,Naji Marshall,11,P.J. Washington,11,Ryan Nembhard,11,0.409
+DEN,11,11,11.0,11,"Jokic, Murray, Watson, Brown, Jr.","[11, 11, 11, 11, 11]",Nikola Jokić,11,Jamal Murray,11,Peyton Watson,11,Bruce Brown,11,Tim Hardaway Jr.,11,0.659
+DET,11,11,11.0,11,"Cunningham, Thompson, Duren, Robinson, II","[11, 11, 11, 11, 11]",Cade Cunningham,11,Ausar Thompson,11,Jalen Duren,11,Duncan Robinson,11,Ronald Holland II,11,0.762
+GSW,14,14,14.0,14,"Green, Podziemski, III, Curry, Post","[14, 14, 14, 14, 14]",Draymond Green,14,Brandin Podziemski,14,Jimmy Butler III,14,Stephen Curry,14,Quinten Post,14,0.556
+HOU,10,10,10.0,10,"Thompson, Sengun, Durant, Sheppard, Jr.","[10, 10, 10, 10, 10]",Amen Thompson,10,Alperen Sengun,10,Kevin Durant,10,Reed Sheppard,10,Jabari Smith Jr.,10,0.634
+IND,13,13,13.0,13,"Nembhard, Siakam, McConnell, Walker, Sheppard","[13, 13, 13, 13, 13]",Andrew Nembhard,13,Pascal Siakam,13,T.J. McConnell,13,Jarace Walker,13,Ben Sheppard,13,0.222
+LAC,13,13,13.0,13,"Harden, Dunn, Zubac, Collins, Leonard","[13, 13, 13, 13, 13]",James Harden,13,Kris Dunn,13,Ivica Zubac,13,John Collins,13,Kawhi Leonard,13,0.442
+LAL,12,12,12.0,12,"Doncic, LaRavia, James, Reaves, Smart","[12, 12, 12, 12, 12]",Luka Dončić,12,Jake LaRavia,12,LeBron James,12,Austin Reaves,12,Marcus Smart,12,0.619
+MEM,11,11,11.0,11,"Spencer, Aldama, Coward, Caldwell-Pope, Jr.","[11, 11, 11, 11, 11]",Cam Spencer,11,Santi Aldama,11,Cedric Coward,11,Kentavious Caldwell-Pope,11,Vince Williams Jr.,11,0.429
+MIA,11,11,11.0,11,"Mitchell, Jr., Adebayo, Wiggins, Smith","[11, 11, 11, 11, 11]",Davion Mitchell,11,Jaime Jaquez Jr.,11,Bam Adebayo,11,Andrew Wiggins,11,Dru Smith,11,0.523
+MIL,10,10,10.0,10,"Rollins, Jr., Portis, Green, Antetokounmpo","[10, 10, 10, 10, 10]",Ryan Rollins,10,Kevin Porter Jr.,10,Bobby Portis,10,AJ Green,10,Giannis Antetokounmpo,10,0.419
+MIN,9,9,9.0,9,"DiVincenzo, Randle, Reid, Edwards, Gobert","[9, 9, 9, 9, 9]",Donte DiVincenzo,9,Julius Randle,9,Naz Reid,9,Anthony Edwards,9,Rudy Gobert,9,0.614
+NOP,13,13,13.0,13,"Fears, Queen, III, Alvarado, Bey","[13, 13, 13, 13, 13]",Jeremiah Fears,13,Derik Queen,13,Trey Murphy III,13,Jose Alvarado,13,Saddiq Bey,13,0.217
+NYK,10,10,10.0,10,"Brunson, Bridges, Hart, Towns, McBride","[10, 10, 10, 10, 10]",Jalen Brunson,10,Mikal Bridges,10,Josh Hart,10,Karl-Anthony Towns,10,Miles McBride,10,0.591
+OKC,12,12,12.0,12,"Gilgeous-Alexander, Mitchell, Holmgren, Wallace, Hartenstein","[12, 12, 12, 12, 12]",Shai Gilgeous-Alexander,12,Ajay Mitchell,12,Chet Holmgren,12,Cason Wallace,12,Isaiah Hartenstein,12,0.822
+ORL,12,12,12.0,12,"Black, Bane, Banchero, Jones, Jr.","[12, 12, 12, 12, 12]",Anthony Black,12,Desmond Bane,12,Paolo Banchero,12,Tyus Jones,12,Wendell Carter Jr.,12,0.548
+PHI,12,12,12.0,12,"Maxey, Edgecombe, Grimes, George, Embiid","[12, 12, 12, 12, 12]",Tyrese Maxey,12,VJ Edgecombe,12,Quentin Grimes,12,Paul George,12,Joel Embiid,12,0.548
+PHX,10,10,10.0,10,"Gillespie, O'Neale, Booker, Goodwin, Ighodaro","[10, 10, 10, 10, 10]",Collin Gillespie,10,Royce O'Neale,10,Devin Booker,10,Jordan Goodwin,10,Oso Ighodaro,10,0.614
+POR,10,10,10.0,10,"Avdija, Camara, Sharpe, Clingan, Love","[10, 10, 10, 10, 10]",Deni Avdija,10,Toumani Camara,10,Shaedon Sharpe,10,Donovan Clingan,10,Caleb Love,10,0.5
+SAC,11,11,11.0,11,"Westbrook, Schroder, DeRozan, LaVine, Raynaud","[11, 11, 11, 11, 11]",Russell Westbrook,11,Dennis Schröder,11,DeMar DeRozan,11,Zach LaVine,11,Maxime Raynaud,11,0.267
+SAS,10,10,10.0,10,"Castle, Fox, Champagnie, Johnson, Barnes","[10, 10, 10, 10, 10]",Stephon Castle,10,De'Aaron Fox,10,Julian Champagnie,10,Keldon Johnson,10,Harrison Barnes,10,0.682
+TOR,10,10,10.0,10,"Quickley, Barnes, Shead, Ingram, Mamukelashvili","[10, 10, 10, 10, 10]",Immanuel Quickley,10,Scottie Barnes,10,Jamal Shead,10,Brandon Ingram,10,Sandro Mamukelashvili,10,0.587
+UTA,12,12,12.0,12,"George, Collier, Nurkic, Jr., Filipowski","[12, 12, 12, 12, 12]",Keyonte George,12,Isaiah Collier,12,Jusuf Nurkić,12,Walter Clayton Jr.,12,Kyle Filipowski,12,0.341
+WAS,11,11,11.0,11,"Carrington, George, Sarr, Coulibaly, III","[11, 11, 11, 11, 11]",Bub Carrington,11,Kyshawn George,11,Alex Sarr,11,Bilal Coulibaly,11,Marvin Bagley III,11,0.238

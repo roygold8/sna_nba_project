@@ -1,0 +1,31 @@
+Team,City,Name,Wins,Losses,Win_Pct,Star_Player,Second_Star,Hierarchy,Star_Power,Core_Concentration,Order,Reason,Win_Score,Championship_Score,Network_Score
+OKC,Oklahoma City,Thunder,37,8,0.822,Shai Gilgeous-Alexander,Chet Holmgren,95,98,85,88,SGA-centric elite offense with young supporting core,100.0,94.9,91.5
+DEN,Denver,Nuggets,29,15,0.659,Nikola Jokic,Jamal Murray,98,100,88,92,Ultimate heliocentric - Jokic as offensive engine,73.05785123966943,85.92314049586777,94.5
+SAS,San Antonio,Spurs,30,14,0.682,Victor Wembanyama,Devin Vassell,90,92,78,80,Wemby-centric emerging dynasty,76.85950413223142,81.74380165289257,85.0
+BOS,Boston,Celtics,27,16,0.628,Jayson Tatum,Jaylen Brown,85,90,90,85,Defending champs with elite two-way duo and deep core,67.93388429752066,79.67355371900827,87.5
+NYK,New York,Knicks,26,18,0.591,Jalen Brunson,Karl-Anthony Towns,88,85,85,82,Brunson heliocentric with elite 3&D depth,61.81818181818181,75.72727272727272,85.0
+LAL,Los Angeles,Lakers,26,16,0.619,LeBron James,Anthony Davis,82,88,80,70,LeBron-AD duo with aging but elite playmaking,66.44628099173553,74.57851239669421,80.0
+MIN,Minnesota,Timberwolves,27,17,0.614,Anthony Edwards,Rudy Gobert,80,85,75,72,Ant-centric with elite defense,65.6198347107438,73.04793388429752,78.0
+PHX,Phoenix,Suns,27,17,0.614,Kevin Durant,Devin Booker,72,85,78,65,Multi-star offense with less hierarchy,65.6198347107438,71.24793388429752,75.0
+HOU,Houston,Rockets,26,15,0.634,Alperen Sengun,Jalen Green,70,75,70,68,Young developing core,68.92561983471074,70.0202479338843,70.75
+CLE,Cleveland,Cavaliers,25,20,0.556,Donovan Mitchell,Darius Garland,75,78,75,70,Balanced backcourt duo with elite defense,56.03305785123969,67.11322314049588,74.5
+DET,Detroit,Pistons,32,10,0.762,Unknown,Unknown,50,50,50,50,Standard team profile,90.08264462809919,66.03305785123968,50.0
+MIL,Milwaukee,Bucks,18,25,0.419,Giannis Antetokounmpo,Damian Lillard,85,90,80,75,Dual-star system struggling with chemistry,33.38842975206611,62.85537190082644,82.5
+TOR,Toronto,Raptors,27,19,0.587,Unknown,Unknown,50,50,50,50,Standard team profile,61.15702479338842,54.46280991735537,50.0
+GSW,Golden State,Warriors,25,20,0.556,Unknown,Unknown,50,50,50,50,Standard team profile,56.03305785123969,52.41322314049587,50.0
+PHI,Philadelphia,76ers,23,19,0.548,Unknown,Unknown,50,50,50,50,Standard team profile,54.7107438016529,51.884297520661164,50.0
+ORL,Orlando,Magic,23,19,0.548,Unknown,Unknown,50,50,50,50,Standard team profile,54.7107438016529,51.884297520661164,50.0
+MIA,Miami,Heat,23,21,0.523,Unknown,Unknown,50,50,50,50,Standard team profile,50.57851239669422,50.231404958677686,50.0
+POR,Portland,Trail Blazers,22,22,0.5,Unknown,Unknown,50,50,50,50,Standard team profile,46.77685950413224,48.710743801652896,50.0
+CHI,Chicago,Bulls,21,22,0.488,Unknown,Unknown,50,50,50,50,Standard team profile,44.79338842975207,47.917355371900825,50.0
+ATL,Atlanta,Hawks,21,25,0.457,Unknown,Unknown,50,50,50,50,Standard team profile,39.669421487603316,45.867768595041326,50.0
+LAC,Los Angeles,Clippers,19,24,0.442,Unknown,Unknown,50,50,50,50,Standard team profile,37.190082644628106,44.876033057851245,50.0
+MEM,Memphis,Grizzlies,18,24,0.429,Unknown,Unknown,50,50,50,50,Standard team profile,35.04132231404959,44.01652892561984,50.0
+DAL,Dallas,Mavericks,18,26,0.409,Unknown,Unknown,50,50,50,50,Standard team profile,31.735537190082642,42.69421487603306,50.0
+CHA,Charlotte,Hornets,16,28,0.364,Unknown,Unknown,50,50,50,50,Standard team profile,24.297520661157023,39.71900826446281,50.0
+UTA,Utah,Jazz,15,29,0.341,Unknown,Unknown,50,50,50,50,Standard team profile,20.495867768595048,38.19834710743802,50.0
+BKN,Brooklyn,Nets,12,30,0.286,Unknown,Unknown,50,50,50,50,Standard team profile,11.404958677685947,34.56198347107438,50.0
+SAC,Sacramento,Kings,12,33,0.267,Unknown,Unknown,50,50,50,50,Standard team profile,8.264462809917358,33.30578512396694,50.0
+WAS,Washington,Wizards,10,32,0.238,Unknown,Unknown,50,50,50,50,Standard team profile,3.471074380165288,31.388429752066116,50.0
+IND,Indiana,Pacers,10,35,0.222,Unknown,Unknown,50,50,50,50,Standard team profile,0.8264462809917362,30.330578512396695,50.0
+NOP,New Orleans,Pelicans,10,36,0.217,Unknown,Unknown,50,50,50,50,Standard team profile,0.0,30.0,50.0

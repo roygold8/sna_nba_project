@@ -1,8 +1,22 @@
-nba_api
-networkx
-pandas
-numpy
-matplotlib
-scipy
-pyvis
-requests
+# NBA Network Analysis Project - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data manipulation
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Network analysis
+networkx>=2.8.0
+
+# NBA data fetching
+nba_api>=1.2.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Statistical analysis
+scipy>=1.9.0
+
+# Progress bars (optional but recommended)
+tqdm>=4.64.0
