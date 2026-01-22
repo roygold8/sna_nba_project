@@ -1,0 +1,31 @@
+TeamID,TeamCity,TeamName,WINS,LOSSES,WinPCT,Conference,PlayoffRank
+1610612760,Oklahoma City,Thunder,37,8,0.822,West,1
+1610612765,Detroit,Pistons,32,10,0.762,East,1
+1610612738,Boston,Celtics,27,16,0.628,East,2
+1610612759,San Antonio,Spurs,30,14,0.682,West,2
+1610612752,New York,Knicks,26,18,0.591,East,3
+1610612743,Denver,Nuggets,29,15,0.659,West,3
+1610612761,Toronto,Raptors,27,19,0.587,East,4
+1610612745,Houston,Rockets,26,15,0.634,West,4
+1610612747,Los Angeles,Lakers,26,16,0.619,West,5
+1610612739,Cleveland,Cavaliers,25,20,0.556,East,5
+1610612755,Philadelphia,76ers,23,19,0.548,East,6
+1610612756,Phoenix,Suns,27,17,0.614,West,6
+1610612750,Minnesota,Timberwolves,27,17,0.614,West,7
+1610612753,Orlando,Magic,23,19,0.548,East,7
+1610612748,Miami,Heat,23,21,0.523,East,8
+1610612744,Golden State,Warriors,25,20,0.556,West,8
+1610612757,Portland,Trail Blazers,22,22,0.5,West,9
+1610612741,Chicago,Bulls,21,22,0.488,East,9
+1610612737,Atlanta,Hawks,21,25,0.457,East,10
+1610612746,LA,Clippers,19,24,0.442,West,10
+1610612763,Memphis,Grizzlies,18,24,0.429,West,11
+1610612749,Milwaukee,Bucks,18,25,0.419,East,11
+1610612742,Dallas,Mavericks,18,26,0.409,West,12
+1610612766,Charlotte,Hornets,16,28,0.364,East,12
+1610612762,Utah,Jazz,15,29,0.341,West,13
+1610612751,Brooklyn,Nets,12,30,0.286,East,13
+1610612758,Sacramento,Kings,12,33,0.267,West,14
+1610612764,Washington,Wizards,10,32,0.238,East,14
+1610612740,New Orleans,Pelicans,10,36,0.217,West,15
+1610612754,Indiana,Pacers,10,35,0.222,East,15
